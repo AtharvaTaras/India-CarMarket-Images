@@ -2,8 +2,9 @@
 ### A dataset of images containing cars that are/were available for sale in the Indian market.   
 ---
 - 234 Cars  
-- 30 Images per car  
-- Uncleaned dataset, may contain some irrelevant/duplicate images  
+- 30 Images per car
+- Size - 2.84 GB (uncompressed)  
+- Uncleaned dataset, may contain some irrelevant/duplicate images
 
 A complete list of cars in this dataset can be found [here](https://www.kaggle.com/datasets/medhekarabhinav5/indian-cars-dataset).  
 (All images were scraped from publicly available sources with [Bing](https://www.bing.com/).  
