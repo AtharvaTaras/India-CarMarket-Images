@@ -18,9 +18,12 @@ Kindly [raise an issue](https://github.com/AtharvaTaras/India-CarMarket-Images/i
 
 **Citation:**
 
-- APA Style: Taras, A. (2023). India Car Market Images Dataset. GitHub. https://github.com/AtharvaTaras/India-CarMarket-Images/
-- MLA Style: Taras, Atharva. "India Car Market Images Dataset." GitHub, 2023. https://github.com/AtharvaTaras/India-CarMarket-Images/
-- Chicago Style: Atharva Taras. "India Car Market Images Dataset." GitHub, 2023. https://github.com/AtharvaTaras/India-CarMarket-Images/
+- APA Style: Taras, A. (2023). India Car Market Images Dataset. GitHub.
+  https://github.com/AtharvaTaras/India-CarMarket-Images/
+- MLA Style: Taras, Atharva. "India Car Market Images Dataset." GitHub, 2023.
+  https://github.com/AtharvaTaras/India-CarMarket-Images/
+- Chicago Style: Atharva Taras. "India Car Market Images Dataset." GitHub, 2023.
+  https://github.com/AtharvaTaras/India-CarMarket-Images/
 
 **License:** [Creative Commons Attribution Share Alike 4.0 International](https://github.com/AtharvaTaras/India-CarMarket-Images/blob/master/LICENCE)  
 **Acknowledgment:** If you use this dataset in your research, please acknowledge it by citing it as described above.
